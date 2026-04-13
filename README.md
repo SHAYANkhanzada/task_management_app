@@ -33,6 +33,27 @@ A comprehensive, production-grade Flutter application developed over a **6-week 
 *   **Dynamic UI**: Hydrating the "Users" tab with network-fetched records and custom avatars.
 *   **Error Handling**: Built-in logic for handling connection timeouts and 403 Forbidden errors (via custom headers).
 
+## 📸 Screenshots & UI
+
+<table style="width:100%">
+  <tr>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.31%20PM.jpeg" width="200px" /><br/><b>Tasks Screen</b></td>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.33%20PM%20(1).jpeg" width="200px" /><br/><b>Add Task</b></td>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.30%20PM%20(2).jpeg" width="200px" /><br/><b>Counter Tab</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.33%20PM%20(2).jpeg" width="200px" /><br/><b>API Users</b></td>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.30%20PM%20(1).jpeg" width="200px" /><br/><b>User Profile</b></td>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.30%20PM.jpeg" width="200px" /><br/><b>Firebase Profile</b></td>
+  </tr>
+</table>
+
+### Highlights:
+*   **Login/Signup**: Clean, modern forms with validation.
+*   **Task List**: Professional To-Do interface with animated completion toggles.
+*   **User List**: Beautifully parsed API data with random avatar generation.
+*   **Profile**: Real-time data sync with Cloud Firestore.
+
 #### 🔐 Week 5: Firebase Authentication & Firestore
 *   **User Auth**: Secure **Email/Password** authentication using Firebase.
 *   **Cloud Database**: Real-time project data storage with **Cloud Firestore**.
