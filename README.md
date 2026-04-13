@@ -37,22 +37,27 @@ A comprehensive, production-grade Flutter application developed over a **6-week 
 
 <table style="width:100%">
   <tr>
-    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.31%20PM.jpeg" width="200px" /><br/><b>Tasks Screen</b></td>
-    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.33%20PM%20(1).jpeg" width="200px" /><br/><b>Add Task</b></td>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.33%20PM.jpeg" width="200px" /><br/><b>Splash Screen</b></td>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.31%20PM.jpeg" width="200px" /><br/><b>Login Screen</b></td>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.32%20PM.jpeg" width="200px" /><br/><b>Signup Screen</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.31%20PM%20(2).jpeg" width="200px" /><br/><b>Tasks List</b></td>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.33%20PM%20(1).jpeg" width="200px" /><br/><b>Add Task Dialog</b></td>
     <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.30%20PM%20(2).jpeg" width="200px" /><br/><b>Counter Tab</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.33%20PM%20(2).jpeg" width="200px" /><br/><b>API Users</b></td>
-    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.30%20PM%20(1).jpeg" width="200px" /><br/><b>User Profile</b></td>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.33%20PM%20(2).jpeg" width="200px" /><br/><b>API Users List</b></td>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.32%20PM%20(1).jpeg" width="200px" /><br/><b>User Details</b></td>
     <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.30%20PM.jpeg" width="200px" /><br/><b>Firebase Profile</b></td>
   </tr>
 </table>
 
 ### Highlights:
-*   **Login/Signup**: Clean, modern forms with validation.
-*   **Task List**: Professional To-Do interface with animated completion toggles.
-*   **User List**: Beautifully parsed API data with random avatar generation.
-*   **Profile**: Real-time data sync with Cloud Firestore.
+*   **Authentication**: Complete Firebase Auth flow with Splash, Login, and Signup screens.
+*   **Task Management**: Modern To-Do interface with Provider-based state updates.
+*   **Networking**: Real-time API data parsing with detailed user views.
+*   **Profile**: Dynamic profile dashboard synced with Cloud Firestore.
 
 #### 🔐 Week 5: Firebase Authentication & Firestore
 *   **User Auth**: Secure **Email/Password** authentication using Firebase.
