@@ -1,4 +1,4 @@
-# 🚀 Flutter Task Management App (Full 6-Week Internship)
+#  Flutter Task Management App 
 
 A comprehensive, production-grade Flutter application developed over a **6-week Internship** period. This project demonstrates a complete journey from basic UI layouts to advanced backend integration and state management.
 
@@ -109,5 +109,4 @@ A comprehensive, production-grade Flutter application developed over a **6-week 
 **Shayan Khanzada**
 *Flutter Developers Internship (Complete 6 Weeks)*
 
----
-*Built with ❤️ and Antigravity AI.*
+
