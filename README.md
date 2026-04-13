@@ -37,19 +37,19 @@ A comprehensive, production-grade Flutter application developed over a **6-week 
 
 <table style="width:100%">
   <tr>
-    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.33%20PM.jpeg" width="200px" /><br/><b>Splash Screen</b></td>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.33%20PM.jpeg" width="200px" /><br/><b>Counter Tab Screen</b></td>
     <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.31%20PM.jpeg" width="200px" /><br/><b>Login Screen</b></td>
-    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.32%20PM.jpeg" width="200px" /><br/><b>Signup Screen</b></td>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.32%20PM.jpeg" width="200px" /><br/><b>Add Task Dialog</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.31%20PM%20(2).jpeg" width="200px" /><br/><b>Tasks List</b></td>
-    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.33%20PM%20(1).jpeg" width="200px" /><br/><b>Add Task Dialog</b></td>
-    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.30%20PM%20(2).jpeg" width="200px" /><br/><b>Counter Tab</b></td>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.31%20PM%20(2).jpeg" width="200px" /><br/><b>Add Task Dialog</b></td>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.33%20PM%20(1).jpeg" width="200px" /><br/><b>API Users List</b></td>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.30%20PM%20(2).jpeg" width="200px" /><br/><b>Signup Screen</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.33%20PM%20(2).jpeg" width="200px" /><br/><b>API Users List</b></td>
-    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.32%20PM%20(1).jpeg" width="200px" /><br/><b>User Details</b></td>
-    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.30%20PM.jpeg" width="200px" /><br/><b>Firebase Profile</b></td>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.33%20PM%20(2).jpeg" width="200px" /><br/><b>User Details</b></td>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.32%20PM%20(1).jpeg" width="200px" /><br/><b>Tasks List</b></td>
+    <td align="center"><img src="screenshots/WhatsApp%20Image%202026-04-13%20at%207.47.30%20PM.jpeg" width="200px" /><br/><b>Splash Screen</b></td>
   </tr>
 </table>
 
@@ -113,5 +113,4 @@ A comprehensive, production-grade Flutter application developed over a **6-week 
 ## 👨‍💻 Developer
 **Shayan Khanzada**
 *Flutter Developers Internship (Complete 6 Weeks)*
-
 
