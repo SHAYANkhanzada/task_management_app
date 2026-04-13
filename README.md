@@ -1,50 +1,85 @@
-# Task Management App
+# 🚀 Flutter Task Management App (Internship Cycle 2)
 
-A simple Flutter application created as part of the Flutter Development Interns Task (Week 1–3).
+A premium, state-of-the-art Flutter application built for the **Flutter Developers Internship**. This project showcases advanced concepts including RESTful API integration, Firebase Authentication, Cloud Firestore, and State Management using the Provider pattern.
 
-## Features
+---
 
-### Week 1: Basic UI & Navigation
-- **Splash Screen:** Displayed initially for 2 seconds (Bonus Challenge).
-- **Login Screen:** Input fields for email and password.
-- **Form Validation:** Validates the email format and ensures the password is not empty before allowing login.
-- **Navigation:** Moves to the Home Screen upon successful validation.
+## 🌟 Key Features
 
-### Week 2: Data Management & Persistent Storage
-- **Local Storage:** Utilizes the `shared_preferences` package for data persistence.
-- **State Management:** Uses `setState` for widget state management.
-- **Counter Tab:** A simple counter allowing the user to increase or decrease values, saved locally.
+### 📡 Week 4: API Integration & Networking
+*   **Dynamic Data Fetching**: Retrieves user data from [JSONPlaceholder](https://jsonplaceholder.typicode.com/) using the `http` package.
+*   **Interactive ListView**: Displays a clean, scrollable list of users with customized avatars.
+*   **User Profiles**: Detailed profile view for each user showing name, email, and personal info.
+*   **Network Resilience**: Robust error handling with user-friendly error messages and a retry mechanism.
+*   **UX Polish**: Integrated circular progress indicators for seamless loading states.
 
-### Week 3: Task Management App
-- **Task List:** A tab displaying a list of tasks.
-- **Task Operations:** Add new tasks, mark tasks as complete, and delete tasks.
-- **Data Persistence:** All task states are saved across app restarts using `SharedPreferences`.
-- **UI Enhancements:** Deep purple theme, custom app bars with action buttons, floating action buttons, and icons to create a functional and appealing interface.
+### 🔐 Week 5: Firebase Authentication & Database
+*   **Identity Management**: Fully functional Email/Password authentication flow (Signup & Login).
+*   **Cloud Persistence**: Real-time integration with **Cloud Firestore** to store and sync user metadata.
+*   **Auth-Guarded UI**: Personalized profile dashboard that hydrates data directly from the user's Firestore document.
+*   **Secure Session**: Smooth logout functionality and session management.
 
-## Getting Started
+### 🏗️ Week 6: State Management & Optimization
+*   **Provider Pattern**: Refactored core logic to use the `Provider` package for clean, scalable state management.
+*   **Real-time Updates**: Task additions, completions, and deletions update the UI instantly without manual `setState` calls.
+*   **Animations**: Subtle micro-animations and polished UI transitions for a premium user experience.
+*   **Architecture**: Optimized project structure following best practices for production-ready Flutter apps.
+
+---
+
+## 🛠️ Tech Stack
+*   **Framework**: [Flutter](https://flutter.dev/)
+*   **Language**: [Dart](https://dart.dev/)
+*   **State Management**: [Provider](https://pub.dev/packages/provider)
+*   **Backend**: [Firebase Auth](https://firebase.google.com/docs/auth) & [Cloud Firestore](https://firebase.google.com/docs/firestore)
+*   **Networking**: [http](https://pub.dev/packages/http)
+*   **Local Storage**: [shared_preferences](https://pub.dev/packages/shared_preferences)
+
+---
+
+## 🚀 Getting Started
 
 ### Prerequisites
-- Install [Flutter SDK](https://docs.flutter.dev/get-started/install)
-- Set up Android Studio or VS Code
+*   Flutter SDK installed
+*   An active Firebase project
 
 ### Installation
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd task_management_app
-   ```
-3. Install dependencies:
-   ```bash
-   flutter pub get
-   ```
-4. Run the app:
-   ```bash
-   flutter run
-   ```
+1.  **Clone the repository**:
+    ```bash
+    git clone https://github.com/your-username/flutter-task-manager-internship.git
+    ```
+2.  **Install dependencies**:
+    ```bash
+    flutter pub get
+    ```
+3.  **Firebase Setup**:
+    *   Add your `google-services.json` to `android/app/`.
+    *   Add your `GoogleService-Info.plist` to `ios/Runner/`.
+4.  **Run the app**:
+    ```bash
+    flutter run
+    ```
 
-## Built With
-- [Flutter](https://flutter.dev/)
-- [shared_preferences](https://pub.dev/packages/shared_preferences)
+---
+
+## 📸 Screenshots & UI
+*   **Login/Signup**: Clean, modern forms with validation.
+*   **Task List**: Professional To-Do interface with animated completion toggles.
+*   **User List**: Beautifully parsed API data with random avatar generation.
+*   **Profile**: Real-time data sync with Cloud Firestore.
+
+---
+
+## 📝 Deliverables Status
+- [x] Week 4: API Integration & Networking
+- [x] Week 5: Firebase Auth & Firestore
+- [x] Week 6: Provider State Management & Final Polish
+
+---
+
+## 👨‍💻 Developer
+**Shayan Khanzada**
+*Flutter Internship Cycle 2 (Weeks 4-6)*
+
+---
+*Created with ❤️ and Antigravity AI.*
